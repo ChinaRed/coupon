@@ -1,5 +1,5 @@
 'use strict';
-
+console.log('aslkdjflads',aslkdjflads);
 /*
 var cl = console.log;
 console.log = function(){
